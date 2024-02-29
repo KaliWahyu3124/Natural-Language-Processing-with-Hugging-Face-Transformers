@@ -1,6 +1,6 @@
 # Natural Language Processing with Hugging Face Transformers
 
-## Author: Unknown
+## Author: Svitlana Kramar
 
 ## Mentee:
 - Name: Wahyu Cahyono. P
