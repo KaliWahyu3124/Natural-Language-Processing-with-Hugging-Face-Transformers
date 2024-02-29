@@ -6,6 +6,17 @@
 - Name: Wahyu Cahyono. P
 - Program: IBM Advanced AI
 
+## Tujuan:
+- Text Classification.
+- Sentiment Analysis. Classifies the polarity of a given text.
+- Topic Classification. Classifies sequences into specified class names.
+- Text Generator. Generates text from a given input.
+- Token Classification.
+- Name Entity Recognition (NER). Labels each word with the entity it represents.
+- Question answering. Extracts the answer from the context.
+- Text Summarization. Generates a summary of a long sequence of text or document.
+- Translation. Translates text into another language.
+
 ## Tool:
 - Google Collab
 
