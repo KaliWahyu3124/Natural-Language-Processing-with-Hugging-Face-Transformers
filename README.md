@@ -1,6 +1,6 @@
 # Natural Language Processing with Hugging Face Transformers
 
-## Author: Natural Language Processing with Hugging Face Transformers
+## Author: Unknown
 
 ## Mentee:
 - Name: Wahyu Cahyono. P
